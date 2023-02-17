@@ -1,5 +1,5 @@
-
-
+<h1 align="center">
+<img  src="https://user-images.githubusercontent.com/99537126/219715936-a1a4ab32-6bdb-467e-b8fa-df9adf8b17c5.gif" alt="coding display" style="width:400px; height:300px"/></h1>
 <h1 align="center">Hey 👋, I'm Bhuvnesh Verma</h1>
 <h3 align="center">A passionate software and full stack developer from India</h3>
 
