@@ -1,23 +1,28 @@
-<h1 align="center">
-<img  src="https://user-images.githubusercontent.com/99537126/219715936-a1a4ab32-6bdb-467e-b8fa-df9adf8b17c5.gif" alt="coding display" style="width:400px; height:300px"/></h1>
-<h1 align="center">Hey 👋, I'm Bhuvnesh Verma</h1>
-<h3 align="center">A passionate software and full stack developer from India</h3>
+![gitartwork](gitartwork.svg)
 
+# <h3 align="center"> Professional Profile </h3>
 
-- 🌱 I’m currently learning **C / C++ / Java / SQL**
+As a seasoned GUI/Web/Mobile App Developer with over 5 years of extensive experience, I specialize in the development and maintenance of high-quality websites and diverse projects. Proficient in a range of programming languages, including HTML, CSS, JavaScript, Java, Python, R, C++, C, and Kotlin, along with their associated frameworks such as OS, Django, and Tkinter. I possess a strong command of web development principles and excel in creating responsive designs. My expertise also extends to optimizing applications through Python.
 
-- 👨‍💻 All of my projects are available at [https://github.com/MasterBhuvnesh](https://github.com/MasterBhuvnesh)
+I have a proven track record of collaborating effectively with cross-functional teams, consistently delivering projects on time and within budget. Currently seeking a challenging web development role that not only leverages my existing skills but also provides opportunities for continued professional growth.
 
-- 💬 Ask me about **Data Structure and Algorithm . The advanced concept of Python programming , Data Science, etc**
+## <h3 align="center"> Technical Skills </h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bhuvneshverma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhuvneshverma" height="30" width="40" /></a>
-<a href="https://instagram.com/bhuvnesh_2904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhuvnesh_2904" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/bhuvneshverma2904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bhuvneshverma" height="30" width="40" /></a>
-<a href="https://discord.gg/0264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="0264" height="30" width="40" /></a>
-</p>
+- **Languages:** JavaScript, HTML, CSS, SQL, React, Python, Java, R, Kotlin, C++, C
+- **Frameworks:** Django, Flask, Tkinter
+- **Databases:** MySQL, MongoDB
+- **Tools:** Git, Docker
 
+## <h3 align="center"> Ongoing Learning </h3>
 
-- On GitHub, you'll find a variety of projects that demonstrate my abilities and showcase my passion for programming. Whether it's a simple script or a complex application, I approach every project with the same level of commitment and attention to detail.
-- I am always open to feedback and collaboration, so feel free to reach out and connect with me on GitHub.
+Actively engaged in advancing my knowledge in computer science, particularly focusing on advanced concepts, data structures, and algorithms.
+
+## <h3 align="center"> Noteworthy Projects </h3>
+
+- Developed a QR-code and Password Generator utilizing Tkinter and Python.
+- Engineered a Clock application for Windows, Android, and websites.
+- Designed and implemented a calculator for iOS and Windows using Python and associated modules.
+
+## <h3 align="center"> Interests and Activities </h3>
+
+In my leisure time, I actively contribute to open-source projects and engage in tech meetups. I have a keen interest in staying abreast of new technologies and enjoy experimenting with various programming languages.
