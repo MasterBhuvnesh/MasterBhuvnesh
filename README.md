@@ -9,7 +9,7 @@ I have a proven track record of collaborating effectively with cross-functional 
 ## <h3 align="center"> Technical Skills 🚀 </h3>
 
 - **Languages:** JavaScript, HTML, CSS, SQL, React, Python, Java, R, Kotlin, C++, C
-- **Frameworks:** Django, Flask, Tkinter ,NodeJS 
+- **Frameworks:** Django, Flask, Tkinter ,NodeJS ,Expo
 - **Databases:** MySQL, MongoDB
 - **Tools:** Git, Docker 
 
