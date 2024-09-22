@@ -2,16 +2,17 @@
 
 # <h3 align="center"> Professional Profile 👨‍💻 </h3>
 
-As a seasoned GUI/Web App Developer with over 5 years of extensive experience, I specialize in the development and maintenance of high-quality websites and diverse projects. Proficient in a range of programming languages, including HTML, CSS, JavaScript, Java, Python, R, C++, C, and Kotlin, along with their associated frameworks such as OS, Django, and Tkinter. I possess a strong command of web development principles and excel in creating responsive designs. My expertise also extends to optimizing applications through Python.
+As a seasoned GUI/Web App Developer with over 5 years of extensive experience, I specialize in the development and maintenance of high-quality websites and diverse projects. Proficient in a range of programming languages, including HTML, CSS, JavaScript, Java, Python, R, C++, C, & React, React Native along with their associated frameworks such as OS, Django, and Tkinter. I possess a strong command of web development principles and excel in creating responsive designs. My expertise also extends to optimizing applications through Python.
 
 I have a proven track record of collaborating effectively with cross-functional teams, consistently delivering projects on time and within budget. Currently seeking a challenging web development role that not only leverages my existing skills but also provides opportunities for continued professional growth.
 
 ## <h3 align="center"> Technical Skills 🚀 </h3>
 
-- **Languages:** JavaScript, HTML, CSS, SQL, React, Python, Java, R, Kotlin, C++, C
+- **Languages:** JavaScript, HTML, CSS, SQL, React, Python, Java, R, C++, C
 - **Frameworks:** Django, Flask, Tkinter ,NodeJS ,Expo
-- **Databases:** MySQL, MongoDB
-- **Tools:** Git, Docker 
+- **Databases:** MySQL, MongoDB, Firebase
+- **authentication:** MongoDB, Firebase, Clerk
+- **Tools:** Git 
 
 ## <h3 align="center"> Ongoing Learning 📚 </h3>
 
