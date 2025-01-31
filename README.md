@@ -27,3 +27,9 @@ Actively engaged in advancing my knowledge in computer science, particularly foc
 ## <h3 align="center"> Interests and Activities 🌐 </h3>
 
 In my leisure time, I actively contribute to open-source projects and engage in tech meetups. I have a keen interest in staying abreast of new technologies and enjoy experimenting with various programming languages.
+
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MasterBhuvnesh&theme=tokyonight&hide_border=true" height="193px"/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=MasterBhuvnesh&theme=tokyo-night&hide_border=true&area=true">
+  
