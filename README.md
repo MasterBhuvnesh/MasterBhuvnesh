@@ -9,8 +9,8 @@ I have a proven track record of collaborating effectively with cross-functional 
 ## <h3 align="center"> Technical Skills 🚀 </h3>
 
 - **Languages:** JavaScript, HTML, CSS, SQL, React, Python, Java, R, C++, C
-- **Frameworks:** Django, Flask, Tkinter ,NodeJS ,Expo
-- **Databases:** MySQL, MongoDB, Firebase
+- **Frameworks:** Django, Flask, Tkinter ,NodeJS ,Expo , Nextjs
+- **Databases:** MySQL, MongoDB, Firebase , Supabase
 - **authentication:** MongoDB, Firebase, Clerk
 - **Tools:** Git 
 
