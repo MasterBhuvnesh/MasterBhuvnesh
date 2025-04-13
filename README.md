@@ -1,8 +1,7 @@
 ![gitartwork](gitartwork.svg)
 
-<div align="center" style="background-color: black; color: white; padding: 10px; border-radius: 8px; font-size: 1.5em;">
-  👨‍💻 Professional Profile 👨‍💻
-</div>
+# <h3 align="center">👨‍💻 Professional Profile 👨‍💻</h3>
+
 
 
 As a seasoned GUI/Web App Developer with over 5 years of extensive experience, I specialize in the development and maintenance of high-quality websites and diverse projects. Proficient in a range of programming languages, including HTML, CSS, JavaScript, Java, Python, R, C++, C, & React, React Native along with their associated frameworks such as OS, Django, and Tkinter. I possess a strong command of web development principles and excel in creating responsive designs. My expertise also extends to optimizing applications through Python.
