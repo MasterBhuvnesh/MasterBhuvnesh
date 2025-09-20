@@ -1,10 +1,5 @@
 ![gitartwork](gitartwork.svg)
 
-<div align="center">
-  <h1>
-    Full-Stack & Mobile App Developer | B.Tech AI & ML
-  </h1>
-</div>
 
 Hey , I’m Bhuvnesh
 
@@ -56,7 +51,7 @@ Currently working on **mldocs** and **studzee**.
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MasterBhuvnesh&theme=tokyonight&hide_border=true&area=true" height="193px"/>
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=MasterBhuvnesh&theme=tokyonight&hide_border=true" height="193px"/> -->
   <img src="https://github-readme-activity-graph.vercel.app/graph/?username=MasterBhuvnesh&theme=tokyo-night&hide_border=true&area=true">
   <img src="https://komarev.com/ghpvc/?username=MasterBhuvnesh&style=flat-square">
 </div>
