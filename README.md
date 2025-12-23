@@ -38,7 +38,7 @@ Currently working on **mldocs** and [**studzee**](https://github.com/MasterBhuvn
 <img src="https://skillicons.dev/icons?i=anaconda,sklearn,tensorflow,opencv,pytorch" />
 
 <!-- DevOps / Infra -->
-<img src="https://skillicons.dev/icons?i=docker,aws,azure,terraform,cloudflare,githubactions,jenkins" />
+<img src="https://skillicons.dev/icons?i=docker,aws,azure,terraform,cloudflare,githubactions,jenkins,kubernetes" />
 
 <!-- Tools & Utilities -->
 <img src="https://skillicons.dev/icons?i=git,linux,ubuntu,npm,pnpm,postman,sentry,jest" />
