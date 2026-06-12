@@ -4,7 +4,6 @@
 Hey , I’m Bhuvnesh
 
 Well, I’m passionate about building scalable, production-ready software with a focus on clean architecture and real-time solutions.  
-Currently working on **Sonic AI** , **mldocs** and [**studzee**](https://github.com/MasterBhuvnesh/studzee).
 
 
 - Experienced with **web & cross-platform app development**.
