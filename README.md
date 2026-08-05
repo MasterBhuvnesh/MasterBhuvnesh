@@ -1,14 +1,15 @@
 ![gitartwork](gitartwork.svg)
 
 
-Hey , I’m Bhuvnesh
+Hey, I'm Bhuvnesh
 
-Well, I’m passionate about building scalable, production-ready software with a focus on clean architecture and real-time solutions.  
+Started with apps, ended up in infrastructure. These days I care more about
+whether it survives a bad night than whether it looks good in a screenshot.
 
-
-- Experienced with **web & cross-platform app development**.
-- Skilled in **system design, authentication, and CI/CD pipelines**.
-- Active in open-source and developer communities.
+**Currently building**
+- [Skarm](https://github.com/MasterBhuvnesh/skarm) - issue tracking, two-way GitHub sync
+- [Studzee](https://github.com/MasterBhuvnesh/studzee) - ed-tech SaaS on Terraform-provisioned AWS
+- [WCL](https://github.com/MasterBhuvnesh/WCL) - exam infra, live at RBU Nagpur
 
 
 
